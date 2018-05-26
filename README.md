@@ -3,6 +3,8 @@ Accuracy - 99%
 
 Language - Python3
 
-Tools - Tensorflow, Keras, NumPy
+Tools/Dependencies - Tensorflow, Keras, NumPy
 
-Time wasted - none cause it was worth it 
+Time wasted - None cause it was worth it 
+
+Why - ｓｏｍｅｔｉｍｅｓ　ｕ　ｇｏｔｔａ　ｄｏ　ｗｈａｔ　ｕ　ｇｏｔｔａ　ｄｏ
